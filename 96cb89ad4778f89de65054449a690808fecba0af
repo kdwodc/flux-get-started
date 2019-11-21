@@ -1,0 +1,1 @@
+{"jobID":"81ed6c8e-6238-67e7-f36b-15a053cfc52e","spec":{"type":"policy","cause":{"Message":"","User":"Kevin D. Williams \u003ckevin.d.williams@oracle.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
